@@ -12,9 +12,7 @@ This paper proposes Comprehensive Pathology Language Image Pre-training (CPLIP),
 ## Requirements
 
 - Install Python environment:
-  ```
-  conda create --name cplip python=3.9 && conda activate quilt
-  ```
+ 
 - Install requirements.
 
 ## Data Reconstruction

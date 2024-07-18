@@ -20,9 +20,9 @@ This paper proposes Comprehensive Pathology Language Image Pre-training (CPLIP),
 The zero_shot_classifier function creates a zero-shot classifier by computing the embeddings for a set of class names using specified text templates.
 
 
-
 ## Pretrained Models
 
+The pretrained model can be downloaded from this [https://drive.google.com/file/d/1INDVr_IlLFFS7cOLEkgtNUk7nH4CIYDe/view?usp=sharing](#).
 
 
 ## Testing

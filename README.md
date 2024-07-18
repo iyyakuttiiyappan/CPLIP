@@ -25,20 +25,18 @@ The zero_shot_classifier function creates a zero-shot classifier by computing th
 The pretrained model can be downloaded from this [[CPLIP Weights](https://drive.google.com/file/d/1INDVr_IlLFFS7cOLEkgtNUk7nH4CIYDe/view?usp=sharing)].
 
 
-## Testing
-
-
-
 ## Citing CPLIP
 
 If you use CPLIP in your research, please cite the following:
 
 ```
-@misc{sajid2024cplip,
+@inproceedings{javed2024cplip,
   title={CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment},
-  author={Sajid Javed, Arif Mahmood, Iyyakutti Iyappan Ganapathi, Fayaz Ali Dharejo1, Naoufel Werghi, Mohammed Bennamoun},
-  year={2024},
-  }
+  author={Javed, Sajid and Mahmood, Arif and Ganapathi, Iyyakutti Iyappan and Dharejo, Fayaz Ali and Werghi, Naoufel and Bennamoun, Mohammed},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11450--11459},
+  year={2024}
+}
 ```
 
 ## Acknowledgements

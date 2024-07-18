@@ -22,7 +22,7 @@ The zero_shot_classifier function creates a zero-shot classifier by computing th
 
 ## Pretrained Models
 
-The pretrained model can be downloaded from this [[https://drive.google.com/file/d/1INDVr_IlLFFS7cOLEkgtNUk7nH4CIYDe/view?usp=sharing](https://drive.google.com/file/d/1INDVr_IlLFFS7cOLEkgtNUk7nH4CIYDe/view?usp=sharing)](#).
+The pretrained model can be downloaded from this [[CPLIP Weights](https://drive.google.com/file/d/1INDVr_IlLFFS7cOLEkgtNUk7nH4CIYDe/view?usp=sharing)](#).
 
 
 ## Testing
